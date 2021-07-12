@@ -20,8 +20,6 @@ using vpii = vector<pii>;
 #define db2 cout << "db2" << endl;
 
 const int MX = 1e5+3;
-int w,n,cnt;
-int c[MX];
 
 int main() {                
 
